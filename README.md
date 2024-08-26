@@ -1,5 +1,7 @@
 # Metric Converter
 
+Download **Metric Converter.exe** and install it on your computer.
+
 ## About:
 This simple metric converter has two modes, 
 - miles to kilometres.
