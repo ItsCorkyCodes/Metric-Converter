@@ -11,9 +11,8 @@ This simple metric converter has two modes,
 3. Hit **Convert**, and watch as the result appears at the bottom.
 4. To use it again, just delete the value and type a new one.
 
-License:
 
-MIT License
+**License**:
 
 Copyright (c) 2024 ItsCorkyCodes
 
