@@ -12,7 +12,8 @@ This simple metric converter has two modes,
 4. To use it again, just delete the value and type a new one.
 
 
-**License**:
+
+## License
 
 Copyright (c) 2024 ItsCorkyCodes
 
