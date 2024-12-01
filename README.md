@@ -1,6 +1,7 @@
 # Metric Converter
 
 Download **Metric Converter.exe** and install it on your computer.
+**Disclaimer**: Don't worry, it's safe! 😃
 
 ## About:
 This simple metric converter has two modes, 
